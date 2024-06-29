@@ -8,7 +8,7 @@ Want to know how much time you've spent playing and dying in your favorite game?
 
 # Si tienes python instalado en tu sistema
 
-Para pasar de un archivo .py a .exe existen varias formas, la más comun de hacerlo es con pyinstaller. Si no tienes esta funcionalidad; con el comando pip install pyinstaller basta.
+Para pasar de un archivo .py a .exe existen varias formas, la más comun de hacerlo es con pyinstaller. Si no tienes esta funcionalidad; con el comando pip install pyinstaller bastaría.
 
 pyinstaller --onefile --noconsole Game_tuff.py ese comando generaría el ejecutable comos se muestra aquí. 
 
