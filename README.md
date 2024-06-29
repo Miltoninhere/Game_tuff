@@ -23,7 +23,7 @@ Puedes mover donde desees el ejecutable y borrar ambas carpetas ya que no te sir
 
 # ATENCION
 
-PARA QUE ALMACENE EL TIEMPO Y LAS MUERTES INTENTA MANTENER CONSIGO EL ARCHIVO QUE GENERA UNA VEZ QUE LO ABRES "datos_juego" es un .json que almacena el tiempo y las muertes. 
+PARA QUE ALMACENE EL TIEMPO Y LAS MUERTES INTENTA MANTENER CONSIGO EL ARCHIVO QUE GENERA EL EJECUTABLE UNA VEZ QUE LO ABRES "datos_juego" es un .json que almacena el tiempo y las muertes. 
 
 
 ![image](https://github.com/Miltoninhere/Game_tuff/assets/173326653/efa6ec17-a9cd-4b32-aec6-2b4e2e8e729b)
