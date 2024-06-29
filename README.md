@@ -1,4 +1,4 @@
-# Gametracker
+# Game_tuff
 
 
 ¿Quieres saber cuántas veces has muerto y el tiempo que has pasado en tus partidas? ¡Gametracker es tu opción ideal! Este programa desarrollado en Python te permite llevar un registro detallado de tus estadísticas de juego. Desde contar el número de muertes hasta calcular el tiempo total de juego, proporciona una interfaz gráfica  minismalista para que lleves un registro preciso de tu rendimiento. Además, guarda automáticamente tus datos para que puedas retomarlos justo donde los dejaste en cada sesión de juego.
